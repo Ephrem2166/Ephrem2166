@@ -50,7 +50,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### Git Status
 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentayehut&count_private=true&show_icons=true&theme=tokyonight)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem2166&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **Ephrem2166/Ephrem2166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
