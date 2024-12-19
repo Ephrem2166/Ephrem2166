@@ -61,7 +61,6 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
 
-</div>
   
 ### Git Status
 
