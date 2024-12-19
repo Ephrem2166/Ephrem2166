@@ -51,7 +51,7 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
 
   
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="Arch" alt="Arch" width="40" height="4"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="40" height="4"/>&nbsp;
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" title="Linux Mint" alt="Linux Mint" width="40" height="40"/>&nbsp;
