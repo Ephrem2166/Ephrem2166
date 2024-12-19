@@ -49,6 +49,7 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div align="center">
+  
 ### Git Status
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem2166&count_private=true&show_icons=true&theme=tokyonight)
