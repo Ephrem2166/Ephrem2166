@@ -48,7 +48,7 @@ Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+<div align="center">
 ### Git Status
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem2166&count_private=true&show_icons=true&theme=tokyonight)
@@ -56,7 +56,7 @@ Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ephrem2166&show_icons=true&locale=en&layout=compact)
-
+</div>
 <!--
 **Ephrem2166/Ephrem2166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
