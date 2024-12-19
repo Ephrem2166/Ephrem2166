@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me:
 
-Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 </div>
 ---
 
