@@ -27,10 +27,12 @@
 
 Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 </div>
----
+
 
 <div align="center>
+  
 ### :hammer_and_wrench: Languages and Tools 
+
 </div>
 
 <div align=center>
