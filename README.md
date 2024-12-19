@@ -46,7 +46,17 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
 ### OS
 <div align="center">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="Arch" alt="Arch" width="40" height="4"/>&nbsp;
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" title="Linux Mint" alt="Linux Mint" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" title="Opensuse" alt="Opensuse" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
+
 </div>
   
 ### Git Status
