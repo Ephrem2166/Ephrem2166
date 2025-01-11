@@ -30,6 +30,8 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
 
 <div align="center">
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,emacs,git,github,gitlab,html,ai,java,jquery,js,linux,mysql,nginx,nodejs,php,ps,py,qt,rust,sass,sqlite,ts,vim,webpack,wordpress&perline=7)](https://skillicons.dev)
+
   
 ### Languages and Tools 
 
