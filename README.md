@@ -62,8 +62,6 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
   
 ### Git Status
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephrem2166&count_private=true&show_icons=true&theme=tokyonight)
 [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ephrem2166&theme=tokyonight&count_private=true&border_radius=0&custom_title=Git%Status&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Ephrem2166?template=classic)
 
 ### Top Languages
