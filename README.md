@@ -66,7 +66,7 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ephrem2166&show_icons=true&locale=en&layout=compact)
+[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ephrem2166&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />](https://github.com/Ephrem2166?tab=repositories)
 </div>
 <!--
 **Ephrem2166/Ephrem2166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
