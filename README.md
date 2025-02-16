@@ -39,13 +39,15 @@ Software Developer and Linux Enthusiast <img src="https://media.giphy.com/media/
 
  </div>
 
-  <div align="center">
+<div align="center">
 ### Git Status
 [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ephrem2166&theme=tokyonight&count_private=true&border_radius=0&custom_title=Git%Status&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Ephrem2166?template=classic)
-
+</div>
+<div>
 ### Top Languages
 
 [<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ephrem2166&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />](https://github.com/Ephrem2166?tab=repositories)
+  
 </div>
 <!--
 **Ephrem2166/Ephrem2166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
